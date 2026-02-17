@@ -13,7 +13,7 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Voice Assistant | M37 Labs",
+  title: "Voice Assistant",
   description: "AI Voice Assistant powered by Gemini & ElevenLabs",
 };
 

@@ -176,7 +176,3 @@ graph TD
 3.  Open `http://localhost:3000` to use the Voice Agent.
 
 ---
-
-Powered by [M37 Labs](https://m37labs.com)
-
-

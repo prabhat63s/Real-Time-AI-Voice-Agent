@@ -95,7 +95,7 @@ export default function LoginPage() {
                 </div>
                 <div className="text-center mt-8">
                     <p className="text-[10px] uppercase tracking-[0.2em] text-foreground/40 font-bold">
-                        Powered by M37 Labs
+                        Developed by Prabhat Singh
                     </p>
                 </div>
             </div>

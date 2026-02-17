@@ -134,7 +134,7 @@ export default function Home() {
         {/* Footer - Subtle floating branding */}
         <footer className="absolute bottom-0 left-0 right-0 p-8 flex items-center justify-center z-20">
           <p className="text-[10px] uppercase tracking-[0.3em] text-slate-600 font-bold hover:text-slate-400 transition-all cursor-default select-none">
-            Powered by <a href="https://m37labs.com" target="_blank" rel="noopener noreferrer">M37 Labs</a>
+            Developed by <a href="https://prabhat-singh-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">Prabhat Singh</a>
           </p>
         </footer>
         {/* Onboarding Guide Overlay */}

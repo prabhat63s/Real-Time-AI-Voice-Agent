@@ -10,7 +10,11 @@ class LoginRequest(BaseModel):
 @router.post("/login")
 def login(request: LoginRequest):
     # Hardcoded credentials for simple auth
-    if request.username == "user@m37labs" and request.password == "2026@m37labs":
+    valid_users = {
+        "demo@123": "123456"
+    }
+
+    if request.username in valid_users and valid_users[request.username] == request.password:
         return {"token": "fake-jwt-token", "message": "Login successful"}
     
     raise HTTPException(
