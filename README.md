@@ -1,4 +1,4 @@
-# Echo: Premium Voice Agent
+# Real-Time AI Voice Agent 
 
 A real-time, bidirectional voice interaction agent that combines the power of **Google Gemini 2.5 Flash** for intelligence and **ElevenLabs** for realistic speech synthesis and recognition. The system features a **premium minimalist UI** with organic animations and a **Privacy First** architecture.
 
